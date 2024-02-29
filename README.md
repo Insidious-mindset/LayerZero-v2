@@ -11,7 +11,7 @@ Join the `#dev-general` channel on [Discord](https://discord-layerzero.netlify.a
 ## Build & Test
 
 ```bash
-yarn && yarn build && yarn test
+yarn && yarn build && yarn test.
 ```
 
 ## Build an Omnichain Application (OApp)
